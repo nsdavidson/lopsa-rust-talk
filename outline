@@ -1,0 +1,25 @@
+Intro
+What is Rust?
+  - Show rust-lang.org and go over description and key features
+History of Rust
+Description
+  - Talk about about the promises made here
+Features
+  - Memory management
+    -- No manual allocs/deallocs and also no garbage collection
+    -- Show examples of good/bad things
+  - Zero-cost abstractions
+  - Type/thread safety
+Tooling
+  - rustup
+    -- Touch on stable vs. nightly
+  - cargo
+    -- Show examples of cargo commands
+    -- Basics of Cargo.toml
+  - crates.io
+Who's using it?
+Cool projects
+  - Servo
+  - Habitat
+  - OS development (intermezzos, etc)
+Resources for learning
